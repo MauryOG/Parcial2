@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen2A</string>
+
+    <string name="MenuOpciones">\n\nMenu de opciones</string>
+    <string name="Button1">Llenar Base</string>
+    <string name="Button2">Eliminar Equipo</string>
+    <string name="Button3">Actualizar Partidos</string>
+    <string name="Button4">Consultar Partidos</string>
+</resources>
